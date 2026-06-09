@@ -1,39 +1,75 @@
-<p align="center">
-  <img src="docs/res/github-graph.png">
-</p>
+[update-readmes]   Mode: rewrite — migrating to template structure...
+# runner
 
-# GitHub Actions Runner
+[![Built with Ona](https://ona.com/build-with-ona.svg)](https://app.ona.com/#https://github.com/Interested-Deving-1896/runner)
 
-[![Actions Status](https://github.com/actions/runner/workflows/Runner%20CI/badge.svg)](https://github.com/actions/runner/actions)
+<!-- AI:start:what-it-does -->
+_Description pending._
+<!-- AI:end:what-it-does -->
 
-The runner is the application that runs a job from a GitHub Actions workflow. It is used by GitHub Actions in the [hosted virtual environments](https://github.com/actions/virtual-environments), or you can [self-host the runner](https://help.github.com/en/actions/automating-your-workflow-with-github-actions/about-self-hosted-runners) in your own environment.
+## Architecture
 
-## Get Started
+<!-- AI:start:architecture -->
+_Architecture documentation pending._
+<!-- AI:end:architecture -->
 
-For more information about installing and using self-hosted runners, see [Adding self-hosted runners](https://help.github.com/en/actions/automating-your-workflow-with-github-actions/adding-self-hosted-runners) and [Using self-hosted runners in a workflow](https://help.github.com/en/actions/automating-your-workflow-with-github-actions/using-self-hosted-runners-in-a-workflow)
+## Install
 
-Runner releases:
+<!-- Add installation instructions here. This section is yours — the AI will not modify it. -->
 
-![win](docs/res/win_sm.png) [Pre-reqs](docs/start/envwin.md) | [Download](https://github.com/actions/runner/releases)  
+```bash
+git clone https://github.com/Interested-Deving-1896/runner.git
+cd runner
+```
 
-![macOS](docs/res/apple_sm.png)  [Pre-reqs](docs/start/envosx.md) | [Download](https://github.com/actions/runner/releases)  
+## Usage
 
-![linux](docs/res/linux_sm.png)  [Pre-reqs](docs/start/envlinux.md) | [Download](https://github.com/actions/runner/releases)
+<!-- Add usage examples here. This section is yours — the AI will not modify it. -->
 
-### Note
+## Configuration
 
-Thank you for your interest in this GitHub repo, however, right now we are not taking contributions. 
+<!-- Document configuration options here. This section is yours — the AI will not modify it. -->
 
-We continue to focus our resources on strategic areas that help our customers be successful while making developers' lives easier. While GitHub Actions remains a key part of this vision, we are allocating resources towards other areas of Actions and are not taking contributions to this repository at this time. The GitHub public roadmap is the best place to follow along for any updates on features we’re working on and what stage they’re in.
+## CI
 
-We are taking the following steps to better direct requests related to GitHub Actions, including:
+<!-- AI:start:ci -->
+_CI documentation pending._
+<!-- AI:end:ci -->
 
-1. We will be directing questions and support requests to our [Community Discussions area](https://github.com/orgs/community/discussions/categories/actions)
+## Mirror chain
 
-2. High Priority bugs can be reported through Community Discussions or you can report these to our support team https://support.github.com/contact/bug-report.
+<!-- AI:start:mirror-chain -->
+This repo is maintained in [`Interested-Deving-1896/runner`](https://github.com/Interested-Deving-1896/runner) and mirrored through:
 
-3. Security Issues should be handled as per our [SECURITY.md](https://github.com/actions/runner?tab=security-ov-file)
+```
+Interested-Deving-1896/runner  ──►  OpenOS-Project-OSP/runner  ──►  OpenOS-Project-Ecosystem-OOC/runner
+```
 
-We will still provide security updates for this project and fix major breaking changes during this time.
+Changes flow downstream automatically via the hourly mirror chain in
+[`fork-sync-all`](https://github.com/Interested-Deving-1896/fork-sync-all).
+Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-Deving-1896`.
+<!-- AI:end:mirror-chain -->
 
-You are welcome to still raise bugs in this repo.
+## Contributors
+
+<!-- AI:start:contributors -->
+_Contributors pending._
+<!-- AI:end:contributors -->
+
+## Origins
+
+<!-- AI:start:origins -->
+_Original project — no upstream fork._
+<!-- AI:end:origins -->
+
+## Resources
+
+<!-- AI:start:resources -->
+_No additional resource files found._
+<!-- AI:end:resources -->
+
+## License
+
+<!-- AI:start:license -->
+[MIT](https://github.com/Interested-Deving-1896/runner/blob/main/LICENSE) © 2026 [Interested-Deving-1896](https://github.com/Interested-Deving-1896)
+<!-- AI:end:license -->
